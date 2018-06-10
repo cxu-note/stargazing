@@ -12,6 +12,10 @@ Home Page
    :maxdepth: 2
    :caption: Contents:
 
+   index
+   say_what
+
+
 -------------
 
 Indices and tables
