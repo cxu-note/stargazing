@@ -14,7 +14,7 @@ Home Page
    :glob:
 
    index
-   *\*
+   say_what\*
 
 
 -------------
