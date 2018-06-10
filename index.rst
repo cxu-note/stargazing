@@ -13,7 +13,8 @@ Home Page
    :caption: Contents:
 
    index
-   say_what
+   say_what/*
+   *
 
 
 -------------
