@@ -9,12 +9,11 @@ Home Page
 文艺复兴时代, 已经过去了很久.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 
    :caption: Contents:
    :glob:
 
    index
-   say_what/*
    *
 
 
