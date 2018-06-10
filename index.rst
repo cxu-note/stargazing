@@ -13,7 +13,6 @@ Home Page
    :caption: Contents:
    :glob:
 
-   index
    */*
 
 
