@@ -21,7 +21,7 @@ from recommonmark.parser import CommonMarkParser
 # -- Project information -----------------------------------------------------
 
 project = '观星统'
-copyright = '2018, cxu'
+copyright = '-∞ ~ +∞, cxu'
 author = 'cxu'
 
 # The short X.Y version
